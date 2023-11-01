@@ -1,0 +1,4 @@
+name: WeHateSkript
+version: '${version}'
+main: com.thedevjade.wehateskript.WeHateSkript
+api-version: '1.20'
